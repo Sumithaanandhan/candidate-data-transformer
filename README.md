@@ -7,8 +7,7 @@ Builds one clean, canonical candidate profile from messy, multi-source input
 provenance, and confidence scoring — and a runtime config layer that reshapes
 the output without touching the pipeline code.
 
-See `DESIGN.md` (or the submitted one-pager PDF) for the full architecture
-write-up: pipeline stages, merge/conflict-resolution policy, and edge cases.
+See `DESIGN.md` for the architecture overview, pipeline stages, merge policy, confidence strategy, and edge-case handling.
 
 ## Setup
 
@@ -74,6 +73,18 @@ The sample CSV and resumes were built to exercise the pipeline's robustness:
   garbage input is dropped, not silently accepted, and the run doesn't crash.
 - **Skill alias** ("JS" in both resumes) — verifies canonicalization maps it
   to "JavaScript".
+
+## Demo Video
+
+A short walkthrough showing:
+- pipeline execution
+- default output generation
+- custom config output
+- robustness handling
+- test execution
+
+Video link:
+https://drive.google.com/file/d/15KcQi1x7Z1IC_5DrGzglOC5-VD8-PB8n/view?usp=sharing
 
 ## Assumptions & what's descoped
 
