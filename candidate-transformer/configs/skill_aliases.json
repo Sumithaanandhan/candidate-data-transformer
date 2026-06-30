@@ -1,0 +1,16 @@
+{
+  "js": "JavaScript",
+  "javascript": "JavaScript",
+  "py": "Python",
+  "python": "Python",
+  "k8s": "Kubernetes",
+  "kubernetes": "Kubernetes",
+  "postgres": "PostgreSQL",
+  "postgresql": "PostgreSQL",
+  "mysql": "MySQL",
+  "aws": "AWS",
+  "docker": "Docker",
+  "django": "Django",
+  "spring boot": "Spring Boot",
+  "java": "Java"
+}

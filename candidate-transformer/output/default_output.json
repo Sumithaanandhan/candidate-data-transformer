@@ -1,0 +1,392 @@
+[
+  {
+    "candidate_id": "e9743225-544e-477b-b0d2-6d27a43a0074",
+    "full_name": "Aarav Sharma",
+    "emails": [
+      "aarav.sharma@gmail.com"
+    ],
+    "phones": [
+      "+919876543210"
+    ],
+    "location": {
+      "city": null,
+      "region": null,
+      "country": null
+    },
+    "links": {},
+    "headline": "Software Engineer",
+    "years_experience": 5,
+    "skills": [
+      {
+        "name": "Python",
+        "confidence": 0.85,
+        "sources": [
+          "resume:sources/resume_aarav_sharma.pdf"
+        ]
+      },
+      {
+        "name": "Django",
+        "confidence": 0.85,
+        "sources": [
+          "resume:sources/resume_aarav_sharma.pdf"
+        ]
+      },
+      {
+        "name": "PostgreSQL",
+        "confidence": 0.85,
+        "sources": [
+          "resume:sources/resume_aarav_sharma.pdf"
+        ]
+      },
+      {
+        "name": "AWS",
+        "confidence": 0.85,
+        "sources": [
+          "resume:sources/resume_aarav_sharma.pdf"
+        ]
+      },
+      {
+        "name": "Docker",
+        "confidence": 0.85,
+        "sources": [
+          "resume:sources/resume_aarav_sharma.pdf"
+        ]
+      },
+      {
+        "name": "JavaScript",
+        "confidence": 0.85,
+        "sources": [
+          "resume:sources/resume_aarav_sharma.pdf"
+        ]
+      }
+    ],
+    "experience": [
+      {
+        "company": "TechNova Solutions",
+        "title": "Software Engineer II",
+        "start": "2023-01",
+        "end": "Present",
+        "summary": "Building scalable APIs for the candidate matching platform."
+      },
+      {
+        "company": "TechNova Solutions",
+        "title": "Software Engineer",
+        "start": "2021-06",
+        "end": "2022-12",
+        "summary": "Worked on backend microservices."
+      }
+    ],
+    "education": [
+      {
+        "institution": "Sri Krishna College of Technology",
+        "degree": "B.E. Computer Science",
+        "field": null,
+        "end_year": 2021
+      }
+    ],
+    "provenance": [
+      {
+        "field": "full_name",
+        "source": "recruiter_csv",
+        "method": "structured_field",
+        "confidence": 1.0
+      },
+      {
+        "field": "emails",
+        "source": "recruiter_csv",
+        "method": "structured_field",
+        "confidence": 0.9
+      },
+      {
+        "field": "phones",
+        "source": "recruiter_csv",
+        "method": "structured_field",
+        "confidence": 0.9
+      },
+      {
+        "field": "skills",
+        "source": "resume:sources/resume_aarav_sharma.pdf",
+        "method": "union_across_sources",
+        "confidence": 0.85
+      },
+      {
+        "field": "experience",
+        "source": "resume:sources/resume_aarav_sharma.pdf",
+        "method": "heuristic_section_parse",
+        "confidence": 0.85
+      },
+      {
+        "field": "education",
+        "source": "resume:sources/resume_aarav_sharma.pdf",
+        "method": "heuristic_section_parse",
+        "confidence": 0.85
+      },
+      {
+        "field": "headline",
+        "source": "recruiter_csv",
+        "method": "structured_field",
+        "confidence": 0.9
+      }
+    ],
+    "overall_confidence": 0.89
+  },
+  {
+    "candidate_id": "28269943-e5e0-4ba1-86b0-12628d5b651f",
+    "full_name": "Priya Menon",
+    "emails": [
+      "priya.menon@outlook.com"
+    ],
+    "phones": [
+      "+919876511223"
+    ],
+    "location": {
+      "city": null,
+      "region": null,
+      "country": null
+    },
+    "links": {},
+    "headline": "Senior Data Analyst",
+    "years_experience": null,
+    "skills": [],
+    "experience": [
+      {
+        "company": "DataCore Analytics",
+        "title": "Senior Data Analyst",
+        "start": null,
+        "end": null,
+        "summary": null
+      }
+    ],
+    "education": [],
+    "provenance": [
+      {
+        "field": "full_name",
+        "source": "recruiter_csv",
+        "method": "structured_field",
+        "confidence": 0.9
+      },
+      {
+        "field": "emails",
+        "source": "recruiter_csv",
+        "method": "structured_field",
+        "confidence": 0.9
+      },
+      {
+        "field": "phones",
+        "source": "recruiter_csv",
+        "method": "structured_field",
+        "confidence": 0.9
+      },
+      {
+        "field": "skills",
+        "source": null,
+        "method": "union_across_sources",
+        "confidence": 0
+      },
+      {
+        "field": "experience",
+        "source": "recruiter_csv",
+        "method": "structured_field",
+        "confidence": 0.9
+      },
+      {
+        "field": "education",
+        "source": null,
+        "method": "missing",
+        "confidence": 0
+      },
+      {
+        "field": "headline",
+        "source": "recruiter_csv",
+        "method": "structured_field",
+        "confidence": 0.9
+      }
+    ],
+    "overall_confidence": 0.9
+  },
+  {
+    "candidate_id": "8fc313e5-c625-4c23-8eac-2294ce542131",
+    "full_name": "Rohit Verma",
+    "emails": [
+      "rohit.verma@yahoo.com"
+    ],
+    "phones": [],
+    "location": {
+      "city": null,
+      "region": null,
+      "country": null
+    },
+    "links": {},
+    "headline": "Backend Developer",
+    "years_experience": null,
+    "skills": [
+      {
+        "name": "Java",
+        "confidence": 0.85,
+        "sources": [
+          "resume:sources/resume_rohit_verma.pdf"
+        ]
+      },
+      {
+        "name": "Spring Boot",
+        "confidence": 0.85,
+        "sources": [
+          "resume:sources/resume_rohit_verma.pdf"
+        ]
+      },
+      {
+        "name": "JavaScript",
+        "confidence": 0.85,
+        "sources": [
+          "resume:sources/resume_rohit_verma.pdf"
+        ]
+      },
+      {
+        "name": "MySQL",
+        "confidence": 0.85,
+        "sources": [
+          "resume:sources/resume_rohit_verma.pdf"
+        ]
+      },
+      {
+        "name": "Kubernetes",
+        "confidence": 0.85,
+        "sources": [
+          "resume:sources/resume_rohit_verma.pdf"
+        ]
+      }
+    ],
+    "experience": [
+      {
+        "company": "CloudSpire Inc",
+        "title": "Backend Developer",
+        "start": null,
+        "end": null,
+        "summary": null
+      }
+    ],
+    "education": [
+      {
+        "institution": "Anna University",
+        "degree": "B.Tech Information Technology",
+        "field": null,
+        "end_year": 2020
+      }
+    ],
+    "provenance": [
+      {
+        "field": "full_name",
+        "source": "recruiter_csv",
+        "method": "structured_field",
+        "confidence": 0.95
+      },
+      {
+        "field": "emails",
+        "source": "recruiter_csv",
+        "method": "structured_field",
+        "confidence": 0.9
+      },
+      {
+        "field": "phones",
+        "source": null,
+        "method": "missing",
+        "confidence": 0
+      },
+      {
+        "field": "skills",
+        "source": "resume:sources/resume_rohit_verma.pdf",
+        "method": "union_across_sources",
+        "confidence": 0.85
+      },
+      {
+        "field": "experience",
+        "source": "recruiter_csv",
+        "method": "structured_field",
+        "confidence": 0.9
+      },
+      {
+        "field": "education",
+        "source": "resume:sources/resume_rohit_verma.pdf",
+        "method": "heuristic_section_parse",
+        "confidence": 0.85
+      },
+      {
+        "field": "headline",
+        "source": "recruiter_csv",
+        "method": "structured_field",
+        "confidence": 0.9
+      }
+    ],
+    "overall_confidence": 0.89
+  },
+  {
+    "candidate_id": "8290472e-e3a4-4757-a6e0-bcc0a2a18b97",
+    "full_name": "Sneha Iyer",
+    "emails": [],
+    "phones": [],
+    "location": {
+      "city": null,
+      "region": null,
+      "country": null
+    },
+    "links": {},
+    "headline": "UI Engineer",
+    "years_experience": null,
+    "skills": [],
+    "experience": [
+      {
+        "company": "PixelForge",
+        "title": "UI Engineer",
+        "start": null,
+        "end": null,
+        "summary": null
+      }
+    ],
+    "education": [],
+    "provenance": [
+      {
+        "field": "full_name",
+        "source": "recruiter_csv",
+        "method": "structured_field",
+        "confidence": 0.9
+      },
+      {
+        "field": "emails",
+        "source": null,
+        "method": "missing",
+        "confidence": 0
+      },
+      {
+        "field": "phones",
+        "source": null,
+        "method": "missing",
+        "confidence": 0
+      },
+      {
+        "field": "skills",
+        "source": null,
+        "method": "union_across_sources",
+        "confidence": 0
+      },
+      {
+        "field": "experience",
+        "source": "recruiter_csv",
+        "method": "structured_field",
+        "confidence": 0.9
+      },
+      {
+        "field": "education",
+        "source": null,
+        "method": "missing",
+        "confidence": 0
+      },
+      {
+        "field": "headline",
+        "source": "recruiter_csv",
+        "method": "structured_field",
+        "confidence": 0.9
+      }
+    ],
+    "overall_confidence": 0.9
+  }
+]

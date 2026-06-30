@@ -1,0 +1,43 @@
+[
+  {
+    "full_name": "Aarav Sharma",
+    "primary_email": "aarav.sharma@gmail.com",
+    "phone": "+919876543210",
+    "skills": [
+      "Python",
+      "Django",
+      "PostgreSQL",
+      "AWS",
+      "Docker",
+      "JavaScript"
+    ],
+    "overall_confidence": 0.89
+  },
+  {
+    "full_name": "Priya Menon",
+    "primary_email": "priya.menon@outlook.com",
+    "phone": "+919876511223",
+    "skills": null,
+    "overall_confidence": 0.9
+  },
+  {
+    "full_name": "Rohit Verma",
+    "primary_email": "rohit.verma@yahoo.com",
+    "phone": null,
+    "skills": [
+      "Java",
+      "Spring Boot",
+      "JavaScript",
+      "MySQL",
+      "Kubernetes"
+    ],
+    "overall_confidence": 0.89
+  },
+  {
+    "full_name": "Sneha Iyer",
+    "primary_email": null,
+    "phone": null,
+    "skills": null,
+    "overall_confidence": 0.9
+  }
+]
